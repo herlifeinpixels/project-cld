@@ -1,0 +1,3 @@
+[submodule "themes/aloha"]
+	path = themes/aloha
+	url = https://github.com/henryhuang/hexo-theme-aloha.git
